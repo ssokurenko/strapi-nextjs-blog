@@ -1,1 +1,4 @@
-# strapi-nextjs-blog
+# Strapi/NextJS Blog
+
+
+## Scripts
